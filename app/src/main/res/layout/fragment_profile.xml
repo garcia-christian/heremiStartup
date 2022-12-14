@@ -42,7 +42,8 @@
                 android:layout_marginStart="10dp"
                 android:text="Lastname, Firstname"
                 android:textSize="23dp"
-                app:layout_constraintStart_toEndOf="@+id/profile_img" />
+                app:layout_constraintStart_toEndOf="@+id/profile_img"
+                />
 
             <TextView
                 android:id="@+id/textView8"
